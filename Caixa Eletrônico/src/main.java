@@ -13,6 +13,6 @@ public class main
 						  	{10,15}
 						  };
 		
-		System.out.println(bin.buscabinaria(vetor, 6, 14));
+		System.out.println(bin.buscaBinaria(vetor, 6, 14));
 	}
 }
