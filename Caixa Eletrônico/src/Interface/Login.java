@@ -1,5 +1,4 @@
 package Interface;
-//guilherme gay (teste github eclipse)
 //Escrito em 21/04/15 - Guilherme F. Souza
 import java.awt.*;
 import javax.swing.*;
